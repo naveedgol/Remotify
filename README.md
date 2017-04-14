@@ -13,7 +13,6 @@ Features:
 * Shake for Suffle!
 * Volume control
 * Mute
-* Heat up temperature sensor to hear [Naveed's] (https://github.com/naveedgol) fire mixtape
 
 Bash:
 Uses bashscript to send data to TIVA board and to control Spotify/iTunes with AppleScript.
