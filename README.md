@@ -1,6 +1,6 @@
 # Remotify
 
-![Remotify](http://i.imgur.com/vDdeeeA.jpg)
+![Remotify](remotify.gif)
 
 Control Spotify/iTunes using a TIVA Board as the remote-controller.
 sdf
